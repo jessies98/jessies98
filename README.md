@@ -2,9 +2,8 @@
   
 
 </h2>
-Hi! I'm Jessie — a motivated and detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology. I'm currently certified in CompTIA Security+, Network+, and Microsoft SC-900, and I'm actively pursuing the Microsoft SC-300: Identity and Access Administrator Associate certification.
+Hi! I'm Jessie — a motivated and detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology. I'm currently pursuing my bachlors in Information and CyberSecurity Operations. I am certified in CompTIA Security+, Network+, and Microsoft SC-900, and I'm actively pursuing the Microsoft SC-300: Identity and Access Administrator Associate certification.
 
-I have hands-on experience working with Microsoft Azure Active Directory, Group Policy configuration, and core access management concepts. I'm especially passionate about Identity and Access Management (IAM) and am currently seeking an internship opportunity where I can apply and grow my skills in user provisioning, access control, and security policy enforcement in a real-world environment.
 
 
 <br />
