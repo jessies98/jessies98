@@ -2,7 +2,7 @@
   
 
 </h2>
-Hi! I'm Jessie — a motivated and detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology. I'm currently pursuing my bachlors in Information and CyberSecurity Operations. I am certified in CompTIA Security+, Network+, and Microsoft SC-900, and I'm actively pursuing the Microsoft SC-300: Identity and Access Administrator Associate certification.
+Hi! I'm Jessie. A motivated and detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology. I'm currently a senior pursuing my bachlors in Information and CyberSecurity Operations. I am certified in CompTIA Security+, Network+, Cisco CCNA 200-301 and Microsoft SC-900.
 
 
 
