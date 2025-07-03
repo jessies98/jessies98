@@ -7,7 +7,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 
 
 <br />
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Networking Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
