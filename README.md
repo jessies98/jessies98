@@ -7,7 +7,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 
 
 <br />
-<h2>👨‍💻 Networking Projects:</h2> <div align="center"><b>(Click the link below and scroll to the bottom of the page to view the project walkthrough.)</b></div>
+<h2>👨‍💻 Networking Projects:</h2> <div align="center"><b>(Click the links below to view my projects! )</b></div>
 
 - <b>Networking Configuration</b>
   - [Segmented VLAN-Based Branch Network with Inter-VLAN and WAN Routing](https://github.com/jessies98/Networking1.1)
