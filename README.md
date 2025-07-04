@@ -2,12 +2,12 @@
   
 
 </h2>
-Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology. I’m currently in my senior year pursuing a bachelor's degree in Information and Cybersecurity Operations. I hold certifications in CompTIA Security+, Network+, Cisco CCNA 200-301, and Microsoft SC-900.
+Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology. I’m currently in my senior year pursuing a bachelor's degree in Information and Cybersecurity Operations. I hold certifications in CompTIA Security+, Network+, Cisco CCNA 200-301, and Microsoft SC-900. Check out my projects!
 
 
 
 <br />
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>👨‍💻 Networking Projects(Click the links):</h2> 
 
 - <b>Netwroking Configuration</b>
   - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networking?tab=readme-ov-file#description)
