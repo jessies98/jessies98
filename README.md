@@ -10,7 +10,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 <h2>👨‍💻 Networking Projects:</h2>
 
 - <b>Netwroking Configuration</b>
-  - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networking)
+  - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networkinghttps://github.com/jessies98/Networking/blob/main/README.md)
  
     
 - <b>Network Security</b>
