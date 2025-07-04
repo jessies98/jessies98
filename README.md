@@ -2,7 +2,7 @@
   
 
 </h2>
-Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology. I’m currently in my senior year pursuing a bachelor's degree in Information and Cybersecurity Operations. I hold certifications in CompTIA Security+, Network+, Cisco CCNA 200-301, and Microsoft SC-900. Check out my projects!
+Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a background in Mechanical Engineering Technology and Power Plant Operations. I’m currently in my senior year pursuing a bachelor's degree in Information and Cybersecurity Operations. I hold certifications in CompTIA Security+, Network+, Cisco CCNA 200-301, and Microsoft SC-900. Check out my projects!
 
 
 
