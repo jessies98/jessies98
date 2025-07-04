@@ -11,6 +11,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 
 - <b>Networking Configuration</b>
   - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networking?tab=readme-ov-file#description)
+  - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networking?tab=readme-ov-file#description)
  
     
 - <b>Network Security</b>
