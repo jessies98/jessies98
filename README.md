@@ -7,10 +7,13 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 
 
 <br />
-<h2>👨‍💻 Networking Projects (Click the links):</h2> 
+<h2>👨‍💻 Networking Projects:</h2> 
+<div align="center">
+<b>(Click the link below and scroll to the bottom of the page to view the project walkthrough.)</b>
+</div>
 
-- <b>Networking Configuration </b>
-  - [Static Routing-Based Enterprise Branch Network with Segmented Department Access (scroll to bottom of page)](https://github.com/jessies98/Networking?tab=readme-ov-file#description)
+- <b>Networking Configuration</b>(Projects are located at the bottom of each page link)
+  - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networking?tab=readme-ov-file#description)
  
     
 - <b>Network Security</b>
