@@ -10,8 +10,9 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 <h2>👨‍💻 Networking Projects:</h2> 
 
 - <b>Networking Configuration</b>
-  - [Segmented VLAN-Based Branch Network with Inter-VLAN and WAN Routing](https://github.com/jessies98/Networking1.1)
   - [Layer 3 Spine-Leaf Data Center Network with OSPF and EtherChannel](https://github.com/jessies98/Networking1.2)
+  - [Segmented VLAN-Based Branch Network with Inter-VLAN and WAN Routing](https://github.com/jessies98/Networking1.1)
+ 
  
     
 - <b>Network Security</b>
