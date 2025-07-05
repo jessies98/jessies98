@@ -10,7 +10,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 <h2>Networking Projects:</h2> 
 
 - <b>Networking Configuration</b>
-  - [Layer 3 Spine-Leaf Data Center Network with OSPF and EtherChannel](https://github.com/jessies98/Networking1.2)
+  - [Layer 3 Spine-Leaf Data Center Network with OSPF Routing and EtherChannel](https://github.com/jessies98/Networking1.2)
   - [Segmented VLAN-Based Branch Network with Inter-VLAN and WAN Routing | RIPv2 Routing(1/2)](https://github.com/jessies98/Networking1.3)
   - [Segmented VLAN-Based Branch Network | EIGRP Routing, Internal DNS, and DHCP Servers(2/2)](https://github.com/jessies98/Networking1.3)
 
