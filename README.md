@@ -14,6 +14,9 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
   - [Segmented VLAN-Based Branch Network | RIPv2 Protocol, Inter-VLAN and WAN Routing](https://github.com/jessies98/Networking1.3)
   - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networking1.1)
 
+<h2>GRC Projects:</h2> 
+
+
 <h2>Skills:</h2> 
 
 - Operating Systems: Windows, macOS, Linux, iOS, Android
