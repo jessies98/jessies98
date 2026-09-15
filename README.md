@@ -21,9 +21,9 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 
 <h2>Python Automation:</h2> 
 
-- <b>Networking Configuration</b>
-  - [Layer 3 Spine-Leaf Data Center Network with OSPF Routing and EtherChannel](https://github.com/jessies98/Networking1.2)
-  - 
+- <b>Python</b>
+  - [Automated Incident Response & Remediation Suite](https://github.com/jessies98/jessies98/tree/Python-Automation)
+    
 <h2>Skills:</h2> 
 
 - Operating Systems: Windows, macOS, Linux, iOS, Android
