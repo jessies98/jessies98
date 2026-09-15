@@ -19,7 +19,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 - <b>GRC Compliance</b>
   - [Governance, Risk, and Compliance (GRC) & Security Awareness (SATE) Program ](https://github.com/jessies98/GRC/blob/main/README.md)
 
-<h2>Python Automation:</h2> 
+<h2>Python Automation and Scripts:</h2> 
 
 - <b>Python</b>
   - [Automated Incident Response & Remediation Suite](https://github.com/jessies98/jessies98/tree/Python-Automation)
