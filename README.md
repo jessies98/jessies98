@@ -15,7 +15,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
   - [Static Routing-Based Enterprise Branch Network with Segmented Department Access](https://github.com/jessies98/Networking1.1)
 
 <h2>GRC Projects:</h2> 
-
+  - (https://github.com/jessies98/GRC.git) 
 
 <h2>Skills:</h2> 
 
