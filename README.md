@@ -33,8 +33,13 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 - Ticketing Systems: Issue Tracking, Knowledge Bases
 - Software: Microsoft Office Suite Microsoft Office Suite
  
-<h2>Certifications:</h2> 
+### 📜 Certifications & Education
 
-- CompTIA Network+
-- CompTIA Security+
-- Cisco CCNA 
+* **CompTIA Security+**
+* **CompTIA Network+**
+* **CompTIA A+**
+* **CompTIA Project+**
+* **Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+🎓 **B.S. Cybersecurity and Information Assurance** — Western Governors University *(Expected Dec 2026)*  
+🎓 **A.S. Mechanical Engineering** — Tidewater Community College
