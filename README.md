@@ -13,7 +13,7 @@ Hi! I'm Jessie, a detail-oriented aspiring cybersecurity professional with a bac
 ### 🛠️ Hands-On Technical Projects
 
 #### 🐍 Python Security Automation & Incident Response
-* **[Automated Incident Response & Remediation Suite](https://github.com/jessies98)**
+* **[Automated Incident Response & Remediation Suite]([https://github.com/jessies98](https://github.com/jessies98/jessies98/tree/Python-Automation))**
   * Engineered a modular incident response pipeline with Python (`paramiko`, `requests`, `smtplib`) to automatically audit subnets, detect rogue nameservers, and flag anomalies without hardcoded IP dependencies.
   * Programmatically remediated endpoint DNS configurations over SSH and automated BIND9 service daemon recovery.
   * Integrated dynamic CSV audit artifact generation and automated incident escalation via a RESTful Helpdesk API (Bearer authentication).
